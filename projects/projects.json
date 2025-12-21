@@ -1,0 +1,62 @@
+[
+  {
+    "name": "My Anime Database",
+    "desc": "Simple My Anime List Clone is a basic web app that lets you track and manage your anime, kind of like a simpler version of MyAnimeList",
+    "image": "anime-db",
+    "category": "web",
+    "links": {
+      "view": "https://simple-mal.vercel.app/",
+      "code": "https://github.com/FikriFz-17/simple-MAL-clone"
+    }
+  },
+  {
+    "name": "Movie RecSys",
+    "desc": "A movie recommendation system designed to suggest movies that align with the user's preferences based on previously liked movies.",
+    "image": "movie-recsys",
+    "category": "ai",
+    "links": {
+      "view": "https://github.com/FikriFz-17/movie_recsys_cosine_similarity",
+      "code": "https://github.com/FikriFz-17/movie_recsys_cosine_similarity"
+    }
+  },
+  {
+    "name": "Items Inventory",
+    "desc": "A simple and easy-to-use website that helps users keep track of their items or inventory. Designed to make managing goods more organized and less of a hassle.",
+    "image": "inventory",
+    "category": "web",
+    "links": {
+      "view": "https://github.com/FikriFz-17/Inventory_Barang",
+      "code": "hhttps://github.com/FikriFz-17/Inventory_Barang"
+    }
+  },
+  {
+    "name": "Book RevU",
+    "desc": "Book RevU is a mobile app where book lovers can discover new titles and read or write reviews. This project was developed to fulfill the requirements of the Platform-Based Application course.",
+    "image": "bookrevu",
+    "category": "android",
+    "links": {
+      "view": "https://simple-mal.vercel.app/",
+      "code": "https://github.com/FikriFz-17/simple-MAL-clone"
+    }
+  },
+  {
+    "name": "Management System",
+    "desc": "Website management system to efficiently manage report of citizens in Kebumen City. Improving efficiency and management report until 60%",
+    "image": "management_system",
+    "category": "web",
+    "links": {
+      "view": "https://github.com/FikriFz-17/manajemen_layanan",
+      "code": "https://github.com/FikriFz-17/manajemen_layanan"
+    }
+  },
+  {
+    "name": "Tokek",
+    "desc": "A reporting system that automates problem categorization and increases efficiency by up to 30% using indoBERT, the ReactJS framework, and Python.",
+    "image": "tokek",
+    "category": "web ai",
+    "links": {
+      "view": "https://github.com/FikriFz-17/tokek",
+      "code": "https://github.com/FikriFz-17/tokek"
+    }
+  }
+]
